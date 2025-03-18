@@ -1,0 +1,305 @@
+﻿Build1=matmatic,ir.matmatic.aco,matmatic
+File1=Ad_Loaded.wav
+File10=avatar(15).png
+File100=RandomPriceSearch.ogg
+File101=return.wav
+File102=Search_AI_End.ogg
+File103=Search_AI_Start.ogg
+File104=seqund.wav
+File105=star_less.wav
+File106=star1-reward.wav
+File107=star2-reward.wav
+File108=star3-reward.wav
+File109=start_game.wav
+File11=avatar(16).png
+File110=StartGamePlay.wav
+File111=true.wav
+File112=TypeSound.wav
+File12=avatar(17).png
+File13=avatar(18).png
+File14=avatar(19).png
+File15=avatar(2).png
+File16=avatar(20).png
+File17=avatar(21).png
+File18=avatar(22).png
+File19=avatar(23).png
+File2=ADS_NO.ogg
+File20=avatar(24).png
+File21=avatar(25).png
+File22=avatar(26).png
+File23=avatar(27).png
+File24=avatar(28).png
+File25=avatar(29).png
+File26=avatar(3).png
+File27=avatar(30).png
+File28=avatar(31).png
+File29=avatar(32).png
+File3=AISearch_PlayGame.ogg
+File30=avatar(4).png
+File31=avatar(5).png
+File32=avatar(6).png
+File33=avatar(7).png
+File34=avatar(8).png
+File35=avatar(9).png
+File36=blackboard.png
+File37=BUY.wav
+File38=cat.gif
+File39=CELL.wav
+File4=avatar(1).png
+File40=EnglishFont_1.TTF
+File41=EnglishFont_2.TTF
+File42=error_network.wav
+File43=error_others.wav
+File44=false.wav
+File45=FarsiFont_1.TTF
+File46=gameover.wav
+File47=GEM.png
+File48=GemChance.wav
+File49=gomenu.wav
+File5=avatar(10).png
+File50=gosetting.wav
+File51=Layout_About.bal
+File52=Layout_About_SubPage.bal
+File53=Layout_GamePlay_1.bal
+File54=Layout_GamePlay_2.bal
+File55=Layout_GamePlay_3.bal
+File56=Layout_Help.bal
+File57=Layout_Help_SubPage.bal
+File58=Layout_Menu.bal
+File59=Layout_Player1_FinishGame.bal
+File6=avatar(11).png
+File60=Layout_Player2_AISearch.bal
+File61=Layout_Player2_FinishGame.bal
+File62=Layout_Player3_AIChallengeSearch.bal
+File63=Layout_Player3_FinishGame.bal
+File64=Layout_Splash.bal
+File65=Layout_Tab1_Level.bal
+File66=Layout_Tab2_Setting.bal
+File67=Layout_Tab2_Setting_SubPage.bal
+File68=Layout_Tab3_User.bal
+File69=Layout_Tab3_User_Avatar.bal
+File7=avatar(12).png
+File70=Layout_Tab3_User_Avatar_SubPage.bal
+File71=Layout_Tab3_User_SubPage.bal
+File72=Layout_Tab4_ShopingCenter.bal
+File73=Layout_Tab4_ShopingCenter_SubPage_Shop.bal
+File74=Layout_Tab4_ShopingCenter_SubPage_Wallet.bal
+File75=loadingend.wav
+File76=loadingstart.wav
+File77=MenuCheck.wav
+File78=Music_BG_GamePlay(1).mp3
+File79=music_bg_gameplay(10).mp3
+File8=avatar(13).png
+File80=Music_BG_GamePlay(2).mp3
+File81=Music_BG_GamePlay(3).mp3
+File82=Music_BG_GamePlay(4).mp3
+File83=Music_BG_GamePlay(5).mp3
+File84=music_bg_gameplay(6).mp3
+File85=music_bg_gameplay(7).mp3
+File86=music_bg_gameplay(8).mp3
+File87=music_bg_gameplay(9).mp3
+File88=nextlevel.wav
+File89=product_1-1.wav
+File9=avatar(14).png
+File90=product_1-2.wav
+File91=product_1-3.wav
+File92=product_2-1.wav
+File93=product_2-2.wav
+File94=product_2-3.wav
+File95=product_3-1.wav
+File96=product_3-2.wav
+File97=product_3-3.wav
+File98=RandomPrice.ogg
+File99=RandomPriceOK.ogg
+FileGroup1=Default Group
+FileGroup10=Default Group
+FileGroup100=Default Group
+FileGroup101=Default Group
+FileGroup102=Default Group
+FileGroup103=Default Group
+FileGroup104=Default Group
+FileGroup105=Default Group
+FileGroup106=Default Group
+FileGroup107=Default Group
+FileGroup108=Default Group
+FileGroup109=Default Group
+FileGroup11=Default Group
+FileGroup110=Default Group
+FileGroup111=Default Group
+FileGroup112=Default Group
+FileGroup12=Default Group
+FileGroup13=Default Group
+FileGroup14=Default Group
+FileGroup15=Default Group
+FileGroup16=Default Group
+FileGroup17=Default Group
+FileGroup18=Default Group
+FileGroup19=Default Group
+FileGroup2=Default Group
+FileGroup20=Default Group
+FileGroup21=Default Group
+FileGroup22=Default Group
+FileGroup23=Default Group
+FileGroup24=Default Group
+FileGroup25=Default Group
+FileGroup26=Default Group
+FileGroup27=Default Group
+FileGroup28=Default Group
+FileGroup29=Default Group
+FileGroup3=Default Group
+FileGroup30=Default Group
+FileGroup31=Default Group
+FileGroup32=Default Group
+FileGroup33=Default Group
+FileGroup34=Default Group
+FileGroup35=Default Group
+FileGroup36=Default Group
+FileGroup37=Default Group
+FileGroup38=Default Group
+FileGroup39=Default Group
+FileGroup4=Default Group
+FileGroup40=Default Group
+FileGroup41=Default Group
+FileGroup42=Default Group
+FileGroup43=Default Group
+FileGroup44=Default Group
+FileGroup45=Default Group
+FileGroup46=Default Group
+FileGroup47=Default Group
+FileGroup48=Default Group
+FileGroup49=Default Group
+FileGroup5=Default Group
+FileGroup50=Default Group
+FileGroup51=Default Group
+FileGroup52=Default Group
+FileGroup53=Default Group
+FileGroup54=Default Group
+FileGroup55=Default Group
+FileGroup56=Default Group
+FileGroup57=Default Group
+FileGroup58=Default Group
+FileGroup59=Default Group
+FileGroup6=Default Group
+FileGroup60=Default Group
+FileGroup61=Default Group
+FileGroup62=Default Group
+FileGroup63=Default Group
+FileGroup64=Default Group
+FileGroup65=Default Group
+FileGroup66=Default Group
+FileGroup67=Default Group
+FileGroup68=Default Group
+FileGroup69=Default Group
+FileGroup7=Default Group
+FileGroup70=Default Group
+FileGroup71=Default Group
+FileGroup72=Default Group
+FileGroup73=Default Group
+FileGroup74=Default Group
+FileGroup75=Default Group
+FileGroup76=Default Group
+FileGroup77=Default Group
+FileGroup78=Default Group
+FileGroup79=Default Group
+FileGroup8=Default Group
+FileGroup80=Default Group
+FileGroup81=Default Group
+FileGroup82=Default Group
+FileGroup83=Default Group
+FileGroup84=Default Group
+FileGroup85=Default Group
+FileGroup86=Default Group
+FileGroup87=Default Group
+FileGroup88=Default Group
+FileGroup89=Default Group
+FileGroup9=Default Group
+FileGroup90=Default Group
+FileGroup91=Default Group
+FileGroup92=Default Group
+FileGroup93=Default Group
+FileGroup94=Default Group
+FileGroup95=Default Group
+FileGroup96=Default Group
+FileGroup97=Default Group
+FileGroup98=Default Group
+FileGroup99=Default Group
+Group=Default Group
+Library1=core
+Library2=javaobject
+Library3=json
+Library4=okhttp
+Library5=xui
+Library6=adivery
+ManifestCode=~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="34"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~CreateResourceFromFile(Macro, Themes.LightTheme)~\n~'End of default text.~\n~	~\n~AddPermission(android.permission.INTERNET)~\n~AddPermission(android.permission.ACCESS_NETWORK_STATE)~\n~AddPermission(android.permission.ACCESS_WIFI_STATE)~\n~AddApplicationText(~\n~<activity~\n~    android:name="com.adivery.sdk.networks.adivery.AdActivity"~\n~    android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"~\n~    android:exported="false" />~\n~<service~\n~    android:name="com.adivery.sdk.LocationJobService"~\n~    android:exported="false"~\n~    android:permission="android.permission.BIND_JOB_SERVICE" />)~\n~	~\n~~\n~
+Module1=Activity_About
+Module10=Activity_Player2_FinishGame
+Module11=Activity_Player3_AIChallengeSearch
+Module12=Activity_Player3_FinishGame
+Module13=Activity_Splash
+Module14=Function_ADS
+Module15=Function_Language
+Module16=Function_MakeQuestion
+Module17=Function_Master
+Module18=Function_Message
+Module19=Function_SaveLoadRestart
+Module2=Activity_Avatar
+Module20=Function_Sound
+Module21=Function_UserName
+Module22=Starter
+Module3=Activity_GamePlay_1
+Module4=Activity_GamePlay_2
+Module5=Activity_GamePlay_3
+Module6=Activity_Help
+Module7=Activity_Menu
+Module8=Activity_Player1_FinishGame
+Module9=Activity_Player2_AISearch
+NumberOfFiles=112
+NumberOfLibraries=6
+NumberOfModules=22
+Version=13
+@EndOfDesignText@
+#Region  Project Attributes 
+	#ApplicationLabel:Rando (AI)
+	#VersionCode: 2025031801
+	#VersionName: 20.25.03.18.01
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: portrait
+	#CanInstallToExternalStorage: false
+	'#AdditionalJar: json
+#End Region
+#Region  Activity Attributes 
+	#FullScreen: False
+	#IncludeTitle: False
+#End Region
+
+Sub Process_Globals
+
+End Sub
+Sub Globals
+End Sub
+
+Sub Activity_Resume
+
+End Sub
+Sub Activity_Pause (UserClosed As Boolean)
+
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	If FirstTime Then
+		Log("اولین بار است که برنامه اجرا می شود")
+		Starter.F_SaveLoadRestart.Restart_Game
+		If File.Exists(File.DirInternal, "data.json") Then
+			Log("فایل data.json وجود داشت")
+		Else
+			Log("فایل data.json وجود نداشت ذخیره شد")
+			File.WriteString(File.DirInternal, "data.json", Starter.jsonString)
+		End If
+	Else
+		Starter.F_SaveLoadRestart.LoadGame
+	End If
+
+	StartActivity(Activity_Splash)
+	Activity.Finish
+End Sub
+

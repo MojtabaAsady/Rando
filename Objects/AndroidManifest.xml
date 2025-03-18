@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	package="ir.matmatic.aco"
+	android:versionCode="2025031801"
+	android:versionName="20.25.03.18.01"
+	android:installLocation="internalOnly">
+	
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="34"/>
+	<supports-screens android:largeScreens="true" 
+	    android:normalScreens="true" 
+	    android:smallScreens="true" 
+	    android:anyDensity="true"/>
+	<uses-permission android:name="android.permission.INTERNET"/>
+	<uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+	<application
+		android:name="androidx.multidex.MultiDexApplication"
+		android:icon="@drawable/icon"
+		android:label="Rando (AI)"
+		android:theme="@style/LightTheme">
+		
+		<activity
+		    android:name="com.adivery.sdk.networks.adivery.AdActivity"
+		    android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+		    android:exported="false" />
+		<service
+		    android:name="com.adivery.sdk.LocationJobService"
+		    android:exported="false"
+		    android:permission="android.permission.BIND_JOB_SERVICE" />
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".main"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+			<intent-filter>
+			   <action android:name="android.intent.action.MAIN" />
+			   <category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+			
+		</activity>
+		<service
+			android:name=".starter"
+			android:exported="true">
+		</service>
+		<receiver
+			android:name=".starter$starter_BR"
+			android:exported="true">
+		</receiver>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_about"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_splash"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_avatar"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_gameplay_1"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_gameplay_2"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_gameplay_3"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_help"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_menu"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_player1_finishgame"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_player2_aisearch"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_player2_finishgame"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_player3_aichallengesearch"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".activity_player3_finishgame"
+			android:label="Rando (AI)"
+			android:screenOrientation="portrait"
+			android:exported="true">
+		</activity>
+	</application>
+</manifest>
